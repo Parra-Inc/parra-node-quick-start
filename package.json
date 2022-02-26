@@ -1,0 +1,20 @@
+{
+  "name": "@parra/node-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@parra/access-token": "^0.1.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "supertest": "^6.1.6"
+  }
+}
